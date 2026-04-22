@@ -1,6 +1,6 @@
 ---
 layout: home
-title: ”홈”
+title: "홈"
 ---
 
 # 환영합니다!
